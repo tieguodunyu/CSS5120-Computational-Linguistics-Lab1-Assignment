@@ -42,10 +42,10 @@ Please follow these steps to submit your assignment via the **Pull Request** wor
 CL-Lab1-Text-Commons/
 ├── README.md                       <-- (The file you are reading)
 ├── data/
-│   ├── 2024001_ZhangSan_Shakespeare/   <-- Your Folder
+│   ├── ZhangSan_Shakespeare/   <-- Your Folder
 │   │   ├── sonnets.txt                 <-- Your Data
 │   │   └── Zhangsan_README.md                   <-- Your Metadata Card
-│   ├── 2024002_LiSi_LegalCases/
+│   ├── LiSi_LegalCases/
 │   │   ├── cases_sample.csv
 │   │   └── LIsi_README.md
 │   └── ...
